@@ -8,4 +8,6 @@ RUN npm install
 
 COPY . .
 
-RUN npm run start
+RUN npm run generate-data
+
+CMD ["node","index.js"]
