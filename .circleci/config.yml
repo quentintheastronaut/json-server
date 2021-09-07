@@ -1,9 +1,7 @@
-# This config is equivalent to both the '.circleci/extended/orb-free.yml' and the base '.circleci/config.yml'
 version: 2.1
-
 orbs:
-  node: circleci/node@4.1
-
+  heroku: circleci/heroku@0.0.10
 workflows:
-  sample:
+  heroku_deploy:
     jobs:
+      - heroku/deploy-via-git
