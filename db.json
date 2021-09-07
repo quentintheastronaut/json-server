@@ -1,0 +1,251 @@
+{
+  "categories": [
+    {
+      "id": "5d2f8680-aef8-4afc-b043-070e2262da47",
+      "name": "Health",
+      "createdAt": 1631002146146,
+      "updatedAt": 1631002146146
+    },
+    {
+      "id": "e683f207-9442-40f3-bf83-5328e457f9a8",
+      "name": "Shoes",
+      "createdAt": 1631002146146,
+      "updatedAt": 1631002146146
+    },
+    {
+      "id": "17dd7d6d-4e08-40eb-b777-03fe9adfe392",
+      "name": "Health",
+      "createdAt": 1631002146146,
+      "updatedAt": 1631002146146
+    },
+    {
+      "id": "2ec413ed-7646-404d-b98e-c62edf229c96",
+      "name": "Toys",
+      "createdAt": 1631002146146,
+      "updatedAt": 1631002146146
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "5d2f8680-aef8-4afc-b043-070e2262da47",
+      "id": "f5ffdea5-d384-4379-9fa2-b7404ef0502d",
+      "name": "Intelligent Frozen Table",
+      "color": "gold",
+      "price": "13.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1631002146146,
+      "updatedAt": 1631002146146,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d2f8680-aef8-4afc-b043-070e2262da47",
+      "id": "9c8bcede-eae2-4127-bb79-01a0791a38e3",
+      "name": "Tasty Cotton Chicken",
+      "color": "mint green",
+      "price": "546.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d2f8680-aef8-4afc-b043-070e2262da47",
+      "id": "94e0fc26-b91f-473a-8ffb-ab030086f0ea",
+      "name": "Generic Wooden Towels",
+      "color": "ivory",
+      "price": "274.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d2f8680-aef8-4afc-b043-070e2262da47",
+      "id": "6c68c2b3-e3d1-484b-b232-ba09cddb4996",
+      "name": "Sleek Concrete Pizza",
+      "color": "maroon",
+      "price": "945.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d2f8680-aef8-4afc-b043-070e2262da47",
+      "id": "3a5f7621-7b9e-421a-948e-ec3503e8b119",
+      "name": "Fantastic Concrete Bacon",
+      "color": "lime",
+      "price": "1000.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e683f207-9442-40f3-bf83-5328e457f9a8",
+      "id": "f15708de-02b6-4ace-a4c0-62f24b1cd82c",
+      "name": "Sleek Rubber Shirt",
+      "color": "maroon",
+      "price": "958.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e683f207-9442-40f3-bf83-5328e457f9a8",
+      "id": "9c573291-bbb9-474b-9f75-f6185713277e",
+      "name": "Small Cotton Chicken",
+      "color": "tan",
+      "price": "319.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e683f207-9442-40f3-bf83-5328e457f9a8",
+      "id": "4f8929f8-373f-419d-9a63-5d3c20710033",
+      "name": "Tasty Granite Gloves",
+      "color": "purple",
+      "price": "229.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e683f207-9442-40f3-bf83-5328e457f9a8",
+      "id": "d1231f33-6f65-43c7-a0a2-fa3f426cfcd1",
+      "name": "Fantastic Frozen Chicken",
+      "color": "pink",
+      "price": "336.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e683f207-9442-40f3-bf83-5328e457f9a8",
+      "id": "fddcbc59-c3a3-4b67-b13e-3ad97cbcecd1",
+      "name": "Handcrafted Soft Tuna",
+      "color": "ivory",
+      "price": "654.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "17dd7d6d-4e08-40eb-b777-03fe9adfe392",
+      "id": "10d23d7e-0c46-43b0-ab86-108e25c11d7f",
+      "name": "Licensed Granite Pants",
+      "color": "yellow",
+      "price": "51.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "17dd7d6d-4e08-40eb-b777-03fe9adfe392",
+      "id": "78b5ed87-40d3-4b9a-a865-f91c90754dfd",
+      "name": "Handmade Frozen Shoes",
+      "color": "indigo",
+      "price": "125.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "17dd7d6d-4e08-40eb-b777-03fe9adfe392",
+      "id": "6cab3a2b-e921-41cd-81e6-e4be0ac2fced",
+      "name": "Awesome Cotton Salad",
+      "color": "orchid",
+      "price": "921.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "17dd7d6d-4e08-40eb-b777-03fe9adfe392",
+      "id": "d9ad52f3-e3a0-4c6a-974b-921cbb52646a",
+      "name": "Handmade Soft Pants",
+      "color": "maroon",
+      "price": "388.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "17dd7d6d-4e08-40eb-b777-03fe9adfe392",
+      "id": "7b21b304-7e2a-4102-a266-0c78b938ae44",
+      "name": "Intelligent Soft Salad",
+      "color": "grey",
+      "price": "988.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ec413ed-7646-404d-b98e-c62edf229c96",
+      "id": "656c0e1f-584e-4017-8983-06f229acb5bb",
+      "name": "Unbranded Concrete Car",
+      "color": "salmon",
+      "price": "80.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ec413ed-7646-404d-b98e-c62edf229c96",
+      "id": "83fb2378-b51b-454c-9bb3-3d1dc6fe56be",
+      "name": "Handcrafted Concrete Chicken",
+      "color": "olive",
+      "price": "207.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ec413ed-7646-404d-b98e-c62edf229c96",
+      "id": "e1abb3e0-fbf2-4db4-b63f-0cac6c144c7f",
+      "name": "Practical Fresh Shoes",
+      "color": "black",
+      "price": "261.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ec413ed-7646-404d-b98e-c62edf229c96",
+      "id": "8b50bad5-7c76-41d6-866a-c70583cbb540",
+      "name": "Awesome Granite Bike",
+      "color": "black",
+      "price": "969.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ec413ed-7646-404d-b98e-c62edf229c96",
+      "id": "200ce5b3-af19-40ad-a261-fe20a7d3f511",
+      "name": "Unbranded Fresh Hat",
+      "color": "white",
+      "price": "329.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1631002146147,
+      "updatedAt": 1631002146147,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ],
+  "profile": []
+}
